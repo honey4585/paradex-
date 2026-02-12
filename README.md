@@ -1,4 +1,4 @@
-# paradex-
+# paradex
 多账户统计助手
 🚀 Paradex PnL Reader - Season 2 Ultimate Edition (v5.2)
 Paradex PnL Reader 是一款专为 Paradex 交易者设计的资产管理与统计工具。它能够高效地跨账户聚合交易数据，实时监控盈亏、交易量及 XP 增长情况，并支持一键导出生产级 Excel 报表。
