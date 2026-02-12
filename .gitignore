@@ -1,0 +1,10 @@
+# 忽略敏感配置文件
+para.env
+*.env
+
+# 忽略缓存和日志
+logs/
+__pycache__/
+
+# 忽略生成的报表
+reports/
